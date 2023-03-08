@@ -3,7 +3,7 @@
 - git
 - markdown
 - Modelo OSI
-- EstandarTCP/IP
+- Estándar TCP/IP
 - Cliente/Servidor en Python
 - Servidores WEB
 - ECMA-404 The JSON Data Interchange Standard.
