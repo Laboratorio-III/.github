@@ -8,4 +8,5 @@
 - Servidores WEB
 - ECMA-404 The JSON Data Interchange Standard.
 - API-REST
+- Frontend/Backend
 - RSA
